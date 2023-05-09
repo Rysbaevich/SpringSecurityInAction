@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.rysbaevich.ss</groupId>
-    <artifactId>ss-ch2-ex1</artifactId>
+    <artifactId>ss-ch02-ex1</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>ss-ch2-ex1</name>
     <description>ss-ch2-ex1</description>
